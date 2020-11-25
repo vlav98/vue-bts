@@ -1,4 +1,21 @@
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from "vue";
+import router from "./router";
+import App from "./App.vue";
 
-createApp(App).mount('#app')
+// Import Assets
+import "./assets/style/main.css";
+
+// Import elements
+import BaseButton from "./components/global/BaseButton";
+
+// Create App
+const app = createApp(App);
+
+// Middleware
+app.use(router);
+
+// Use elements
+app.component("base-button", BaseButton);
+
+// App mounted
+app.mount("#app");
