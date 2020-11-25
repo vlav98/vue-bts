@@ -1,0 +1,569 @@
+[
+  {
+    "Name": "Dark & Wild",
+    "Year": 2014,
+    "Date of release": "Aug 19, 2014",
+    "Nb track": 9,
+    "Genre": "Dance-pop, Hip Hop, R&B",
+    "Language": "Korean",
+    "Type": "Studio Album"
+  },
+  {
+    "Name": "Wings",
+    "Year": 2016,
+    "Date of release": "Oct 10, 2016",
+    "Nb track": 15,
+    "Genre": "Dance-pop, Hip Hop, R&B",
+    "Language": "Korean",
+    "Type": "Studio Album"
+  },
+  {
+    "Name": "Love Yourself: Tear",
+    "Year": 2018,
+    "Date of release": "May 18, 2018",
+    "Nb track": 11,
+    "Genre": "Ballad, Electronica, Hip Hop, Pop, R&B, Soul",
+    "Language": "Korean",
+    "Type": "Studio Album"
+  },
+  {
+    "Name": "Map of the Soul: 7",
+    "Year": 2020,
+    "Date of release": "Feb 21, 2020",
+    "Nb track": 20,
+    "Genre": "EDM, Hip Hop, Pop, R&B, Trap",
+    "Language": "Korean",
+    "Type": "Studio Album"
+  },
+  {
+    "Name": "Wake Up",
+    "Year": 2014,
+    "Date of release": "Dec 24, 2014",
+    "Nb track": 13,
+    "Genre": "Dance-pop, Hip Hop, J-pop, Pop, R&B",
+    "Language": "Japanese",
+    "Type": "Studio Album"
+  },
+  {
+    "Name": "Youth",
+    "Year": 2016,
+    "Date of release": "Sep 7, 2016",
+    "Nb track": 13,
+    "Genre": "Dance-pop, Hip Hop, J-pop, Pop, R&B",
+    "Language": "Japanese",
+    "Type": "Studio Album"
+  },
+  {
+    "Name": "Face Yourself",
+    "Year": 2018,
+    "Date of release": "Apr 4, 2018",
+    "Nb track": 13,
+    "Genre": "Hip Hop, J-pop",
+    "Language": "Japanese",
+    "Type": "Studio Album"
+  },
+  {
+    "Name": "Map of the Soul: 7 ~The Journey~",
+    "Year": 2020,
+    "Date of release": "Jul 15, 2020",
+    "Nb track": 13,
+    "Genre": "EDM, Hip Hop, J-pop, R&B, Trap",
+    "Language": "Japanese",
+    "Type": "Studio Album"
+  },
+  {
+    "Name": "O!RUL8,2?",
+    "Year": 2013,
+    "Date of release": "Sep 11, 2013",
+    "Nb track": 10,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Mini Album"
+  },
+  {
+    "Name": "Skool Luv Affair",
+    "Year": 2014,
+    "Date of release": "Feb 14, 2014",
+    "Nb track": 10,
+    "Genre": "Dance-pop, Hip Hop, R&B",
+    "Language": "Korean",
+    "Type": "Mini Album"
+  },
+  {
+    "Name": "The Most Beautiful Moment in Life, Part 1",
+    "Year": 2015,
+    "Date of release": "Apr 29, 2015",
+    "Nb track": 9,
+    "Genre": "Dance-pop, EDM, Hip Hop, R&B",
+    "Language": "Korean",
+    "Type": "Mini Album"
+  },
+  {
+    "Name": "The Most Beautiful Moment in Life, Part 2",
+    "Year": 2015,
+    "Date of release": "Nov 30, 2015",
+    "Nb track": 9,
+    "Genre": "Dance-pop, Hip Hop, R&B",
+    "Language": "Korean",
+    "Type": "Mini Album"
+  },
+  {
+    "Name": "Love Yourself: Her",
+    "Year": 2017,
+    "Date of release": "Sep 18, 2017",
+    "Nb track": 11,
+    "Genre": "Dance-pop, EDM, Hip Hop",
+    "Language": "Korean",
+    "Type": "Mini Album"
+  },
+  {
+    "Name": "Map Of The Soul: Persona",
+    "Year": 2019,
+    "Date of release": "Apr 12, 2019",
+    "Nb track": 7,
+    "Genre": "Pop, R&B, Rap Rock",
+    "Language": "Korean",
+    "Type": "Mini Album"
+  },
+  {
+    "Name": "The Most Beautiful Moment in Life: Young Forever",
+    "Year": 2016,
+    "Date of release": "May 2, 2016",
+    "Nb track": 23,
+    "Genre": "Dance-pop, Hip Hop, R&B",
+    "Language": "Korean",
+    "Type": "Compilation Albums"
+  },
+  {
+    "Name": "Love Yourself: Answer",
+    "Year": 2018,
+    "Date of release": "Aug 24, 2018",
+    "Nb track": 26,
+    "Genre": "Ballad, Hip Hop, Pop, Soul",
+    "Language": "Korean",
+    "Type": "Compilation Albums"
+  },
+  {
+    "Name": "2 Cool 4 Skool / O!RUL8,2?",
+    "Year": 2014,
+    "Date of release": "May 23, 2014",
+    "Nb track": 19,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Compilation Albums"
+  },
+  {
+    "Name": "The Best of BTS -Korea Edition-",
+    "Year": 2017,
+    "Date of release": "Jan 6, 2017",
+    "Nb track": 14,
+    "Genre": "",
+    "Language": "Korean",
+    "Type": "Compilation Albums"
+  },
+  {
+    "Name": "The Best of BTS -Japan Edition-",
+    "Year": 2017,
+    "Date of release": "Jan 6, 2017",
+    "Nb track": 14,
+    "Genre": "",
+    "Language": "Japanese",
+    "Type": "Compilation Albums"
+  },
+  {
+    "Name": "2 Cool 4 Skool",
+    "Year": 2013,
+    "Date of release": "Jun 13, 2013",
+    "Nb track": 9,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Single Albums"
+  },
+  {
+    "Name": "No More Dream",
+    "Year": 2014,
+    "Date of release": "Jun 4, 2014",
+    "Nb track": 3,
+    "Genre": "Hip Hop, J-pop",
+    "Language": "Japanese",
+    "Type": "Single Albums"
+  },
+  {
+    "Name": "Boy In Luv",
+    "Year": 2014,
+    "Date of release": "Jul 16, 2014",
+    "Nb track": 3,
+    "Genre": "Hip Hop, J-pop",
+    "Language": "Japanese",
+    "Type": "Single Albums"
+  },
+  {
+    "Name": "Danger",
+    "Year": 2014,
+    "Date of release": "Nov 19, 2014",
+    "Nb track": 3,
+    "Genre": "Hip Hop, J-pop",
+    "Language": "Japanese",
+    "Type": "Single Albums"
+  },
+  {
+    "Name": "For You",
+    "Year": 2015,
+    "Date of release": "Jun 17, 2015",
+    "Nb track": 3,
+    "Genre": "Dance-pop, J-pop, Pop",
+    "Language": "Japanese",
+    "Type": "Single Albums"
+  },
+  {
+    "Name": "I Need U",
+    "Year": 2015,
+    "Date of release": "Dec 8, 2015",
+    "Nb track": 3,
+    "Genre": "Dance-pop, J-pop, Pop",
+    "Language": "Japanese",
+    "Type": "Single Albums"
+  },
+  {
+    "Name": "Run",
+    "Year": 2016,
+    "Date of release": "Mar 15, 2016",
+    "Nb track": 3,
+    "Genre": "Dance-pop, J-pop, Pop",
+    "Language": "Japanese",
+    "Type": "Single Albums"
+  },
+  {
+    "Name": "Blood Sweat & Tears",
+    "Year": 2017,
+    "Date of release": "May 10, 2017",
+    "Nb track": 3,
+    "Genre": "J-pop, Trap",
+    "Language": "Japanese",
+    "Type": "Single Albums"
+  },
+  {
+    "Name": "MIC Drop/DNA/Crystal Snow",
+    "Year": 2017,
+    "Date of release": "Dec 6, 2017",
+    "Nb track": 3,
+    "Genre": "Hip Hop, J-pop",
+    "Language": "Japanese",
+    "Type": "Single Albums"
+  },
+  {
+    "Name": "FAKE LOVE/Airplane Pt.2",
+    "Year": 2018,
+    "Date of release": "Oct 16, 2018",
+    "Nb track": 4,
+    "Genre": "Hip Hop, J-pop",
+    "Language": "Japanese",
+    "Type": "Single Albums"
+  },
+  {
+    "Name": "Lights/Boy With Luv",
+    "Year": 2019,
+    "Date of release": "Jul 3, 2019",
+    "Nb track": 3,
+    "Genre": "J-pop",
+    "Language": "Japanese",
+    "Type": "Single Albums"
+  },
+  {
+    "Name": "BTS World: Original Soundtrack",
+    "Year": 2019,
+    "Date of release": "Jun 28, 2019",
+    "Nb track": 14,
+    "Genre": "",
+    "Language": "English, Korean",
+    "Type": "Soundtrack albums"
+  },
+  {
+    "Name": "Danger (Mo-Blue-Mix) (Feat. Thanh)",
+    "Year": 2014,
+    "Date of release": "Nov 20, 2014",
+    "Nb track": 1,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "Come Back Home",
+    "Year": 2017,
+    "Date of release": "Jul 4, 2017",
+    "Nb track": 1,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "FAKE LOVE (Rocking Vibe Mix)",
+    "Year": 2018,
+    "Date of release": "Jun 4, 2018",
+    "Nb track": 1,
+    "Genre": "Emo hip-hop, Grudge rock",
+    "Language": "Korean",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "Dream Glow",
+    "Year": 2019,
+    "Date of release": "Jun 7, 2019",
+    "Nb track": 1,
+    "Genre": "EDM",
+    "Language": "English, Korean",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "A Brand New Day",
+    "Year": 2019,
+    "Date of release": "Jun 14, 2019",
+    "Nb track": 1,
+    "Genre": "Electronica, Hip Hop",
+    "Language": "English, Korean",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "All Night",
+    "Year": 2019,
+    "Date of release": "Jun 21, 2019",
+    "Nb track": 1,
+    "Genre": "Hip Hop",
+    "Language": "English, Korean",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "Make It Right (feat. Lauv)",
+    "Year": 2019,
+    "Date of release": "Oct 18, 2019",
+    "Nb track": 1,
+    "Genre": "R&B",
+    "Language": "English, Korean",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "Make It Right (feat. Lauv) (EDM Remix)",
+    "Year": 2019,
+    "Date of release": "Nov 1, 2019",
+    "Nb track": 1,
+    "Genre": "EDM, R&B",
+    "Language": "English, Korean",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "Make It Right (feat. Lauv) (Acoustic Remix)",
+    "Year": 2019,
+    "Date of release": "Nov 8, 2019",
+    "Nb track": 1,
+    "Genre": "Accoustic, R&B",
+    "Language": "English, Korean",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "Boy In Luv (Chinese Ver.)",
+    "Year": 2015,
+    "Date of release": "Mar 8, 2015",
+    "Nb track": 1,
+    "Genre": "Hip Hop",
+    "Language": "Chinese",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "MIC Drop (Steve Aoki Remix) (Feat. Desiigner)",
+    "Year": 2017,
+    "Date of release": "Nov 24, 2017",
+    "Nb track": 1,
+    "Genre": "Hip Hop",
+    "Language": "English, Korean",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "Dynamite",
+    "Year": 2020,
+    "Date of release": "Aug 21, 2020",
+    "Nb track": 2,
+    "Genre": "Disco, Pop",
+    "Language": "English",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "Dynamite (Extended)",
+    "Year": 2020,
+    "Date of release": "Aug 24, 2020",
+    "Nb track": 4,
+    "Genre": "Disco, Pop",
+    "Language": "English",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "Dynamite (DayTime Version)",
+    "Year": 2020,
+    "Date of release": "Aug 28, 2020",
+    "Nb track": 6,
+    "Genre": "Disco, Pop",
+    "Language": "English",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "Dynamite (NightTime Version)",
+    "Year": 2020,
+    "Date of release": "Aug 28, 2020",
+    "Nb track": 6,
+    "Genre": "Disco, Pop",
+    "Language": "English",
+    "Type": "Digital Singles"
+  },
+  {
+    "Name": "RM",
+    "Year": 2015,
+    "Date of release": "Mar 20, 2015",
+    "Nb track": 11,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Mixtapes"
+  },
+  {
+    "Name": "Mono",
+    "Year": 2018,
+    "Date of release": "Oct 23, 2018",
+    "Nb track": 7,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Mixtapes"
+  },
+  {
+    "Name": "AgustD",
+    "Year": 2016,
+    "Date of release": "Aug 16, 2016",
+    "Nb track": 10,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Mixtapes"
+  },
+  {
+    "Name": "D-2",
+    "Year": 2020,
+    "Date of release": "May 22, 2020",
+    "Nb track": 10,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Mixtapes"
+  },
+  {
+    "Name": "Hope World",
+    "Year": 2018,
+    "Date of release": "Mar 2, 2018",
+    "Nb track": 7,
+    "Genre": "Dance-pop, Hip Hop",
+    "Language": "Korean",
+    "Type": "Mixtapes"
+  },
+  {
+    "Name": "Monterlude",
+    "Year": 2014,
+    "Date of release": "Jan 17, 2014",
+    "Nb track": 1,
+    "Genre": "Hip Hop",
+    "Language": "English",
+    "Type": "Original Songs, Unofficial Songs"
+  },
+  {
+    "Name": "Unpack Your Bags",
+    "Year": 2014,
+    "Date of release": "May 20, 2014",
+    "Nb track": 1,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Original Songs, Unofficial Songs"
+  },
+  {
+    "Name": "We Are Bulletproof Pt. 1 (4 BEGINS Ruff)",
+    "Year": 2015,
+    "Date of release": "Jun 9, 2015",
+    "Nb track": 1,
+    "Genre": "",
+    "Language": "Korean",
+    "Type": "Original Songs, Unofficial Songs"
+  },
+  {
+    "Name": "I know",
+    "Year": 2016,
+    "Date of release": "Jun 1, 2016",
+    "Nb track": 1,
+    "Genre": "",
+    "Language": "Korean",
+    "Type": "Original Songs, Unofficial Songs"
+  },
+  {
+    "Name": "Young Forever (Unplugged Ver.)",
+    "Year": 2016,
+    "Date of release": "Jun 13, 2016",
+    "Nb track": 1,
+    "Genre": "",
+    "Language": "Korean",
+    "Type": "Original Songs, Unofficial Songs"
+  },
+  {
+    "Name": "Awake (Christmas Ver.)",
+    "Year": 2016,
+    "Date of release": "Dec 4, 2016",
+    "Nb track": 1,
+    "Genre": "",
+    "Language": "Korean",
+    "Type": "Original Songs, Unofficial Songs"
+  },
+  {
+    "Name": "Run (Puma Blaze Time Ver.)",
+    "Year": 2016,
+    "Date of release": "Jan 31, 2016",
+    "Nb track": 1,
+    "Genre": "",
+    "Language": "Korean",
+    "Type": "Original Songs, Unofficial Songs"
+  },
+  {
+    "Name": "Family Song",
+    "Year": 2016,
+    "Date of release": "May 6, 2016",
+    "Nb track": 1,
+    "Genre": "",
+    "Language": "Korean",
+    "Type": "Original Songs, Unofficial Songs"
+  },
+  {
+    "Name": "BTS X JESSI",
+    "Year": 2016,
+    "Date of release": "Mar 11, 2016",
+    "Nb track": 1,
+    "Genre": "",
+    "Language": "Korean",
+    "Type": "Original Songs, Unofficial Songs"
+  },
+  {
+    "Name": "It Doesn't Matter Mix Final",
+    "Year": 2013,
+    "Date of release": "Oct 27, 2013",
+    "Nb track": 1,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Sampled Songs, Unofficial Songs"
+  },
+  {
+    "Name": "1 Verse",
+    "Year": 2015,
+    "Date of release": "Dec 21, 2015",
+    "Nb track": 1,
+    "Genre": "Hip Hop",
+    "Language": "Korean",
+    "Type": "Sampled Songs, Unofficial Songs"
+  },
+  {
+    "Name": "",
+    "Year": "",
+    "Date of release": "",
+    "Nb track": "",
+    "Genre": "",
+    "Language": "",
+    "Type": ""
+  }
+]
