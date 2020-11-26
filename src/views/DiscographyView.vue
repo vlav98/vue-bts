@@ -5,7 +5,7 @@
   <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
     <div class="flex-wrap md:flex md:mx-6 mb-4">
       <div class="">
-        <select class="border border-gray-300 rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" v-model="selectedYear" @change="filterByYear($event)">
+        <select class="dark:bg-transparent border border-gray-300 rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" v-model="selectedYear" @change="filterByYear($event)">
           <option value="null" selected>{{ yearOption }}</option>
           <option v-for="year in Years" :key="year" :value="year" @click.prevent="filterAlbums(year)"> {{ year }} </option>
         </select>
