@@ -3,7 +3,7 @@ import router from "./router";
 import App from "./App.vue";
 
 // Import Assets
-import "./assets/style/main.css";
+import "./assets/style/main.scss";
 
 // Import elements
 import BaseButton from "./components/global/BaseButton";
