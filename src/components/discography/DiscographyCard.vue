@@ -1,5 +1,5 @@
 <template>
-  <div class="rounded border border justify-between dark w-full mb-2 md:w-5/12 md:mx-4 border rounded shadow-sm">
+  <div class="rounded border border justify-between dark w-full mb-2 md:w-5/12 md:mx-8 border rounded shadow-sm">
     <div class="px-4 py-4">
         <h3 class="font-semibold leading-tight text-2xl mb-2">{{ discographyData.Name }}</h3>
         <div class="mb-2 text-justify">

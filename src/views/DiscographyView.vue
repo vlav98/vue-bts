@@ -3,9 +3,17 @@
     <h1 class="text-3xl font-bold leading-tight text-gray-900">Discographie de BTS</h1>
   </div>
   <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
+    <div class="flex-wrap md:flex md:mx-6 mb-4">
+      <div class="">
+        <select class="border border-gray-300 rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" v-model="selectedYear" @change="filterByYear($event)">
+          <option value="null" selected>{{ yearOption }}</option>
+          <option v-for="year in Years" :key="year" :value="year" @click.prevent="filterAlbums(year)"> {{ year }} </option>
+        </select>
+      </div>
+    </div>
     <div class="md:flex md:-mx-4 flex-wrap justify-center">
       <discography-card
-        v-show="datas && discographys.length > 0"
+        v-show="(discography.Year == selectedYear && selectedYear != null) || selectedYear == null"
         v-for="(discography, i) in discographys"
         :key="i"
         class="item-list"
@@ -21,12 +29,12 @@
 
 <script>
 import datas from "./../data/discography.json";
-import DiscographyCard from "../components/discography/DiscographyCard.vue"
+import DiscographyCard from "../components/discography/DiscographyCard.vue";
 
 export default {
   name: "Discography",
   components: {
-    DiscographyCard
+    DiscographyCard,
   },
   data() {
     return {
@@ -35,7 +43,12 @@ export default {
       isCompleted: false,
       list: [],
       errorMessages: [],
-    }
+      selectedYear: null,
+      yearOption: "Select a year",
+      Years: [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+      Genres: ["Accoustic", "Ballad", "Dance-pop", "Disco", "EDM", "Electronica", "Emo hip-hop", "Grudge rock", "Hip Hop", "J-pop", "Moombahton", "Pop", "R&B", "Rap Rock", "Rock", "Soul", "Trap"],
+      Type: ["Adapted Songs", "Collaboration", "Compilation Albums", "Cover Songs", "Digital Singles", "Mini Album", "Mixtapes", "Original Songs", "Sampled Songs", "Single Albums", "Soundtrack albums", "Studio Album", "Unofficial Songs"],
+    };
   },
   methods: {
     addOne: function (discography) {
@@ -67,11 +80,17 @@ export default {
         }
       }
     },
+    filterByYear(event) {
+      this.selectedYear = (event.target.value == "null") ? null : event.target.value;
+      console.log(event.target.value);
+    },
   },
   computed: {
     discographys: function () {
       return datas;
     },
+  },
+  watch: {
   },
 };
 </script>
