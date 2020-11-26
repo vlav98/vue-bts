@@ -4,10 +4,7 @@ import { createRouter, createWebHashHistory } from 'vue-router';
 import Home from "@/views/Home";
 import About from "@/views/About";
 import Contact from "@/views/Contact";
-
-// Import Main Components
-/* import MainView from "../components/MainView"; */
-/* import SelectionView from "./screens/SelectionView"; */
+import Discography from "@/views/DiscographyView";
 
 // Routes
 const routes = [
@@ -25,6 +22,11 @@ const routes = [
     path: '/contact',
     name: 'Contact',
     component: Contact
+  },
+  {
+    path: '/discography',
+    name: 'Discography',
+    component: Discography
   },
   /* 
   { path: "/", name: "discography", component: MainView },
