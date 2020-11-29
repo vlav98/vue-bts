@@ -1,0 +1,17 @@
+$transparent: transparent;
+$black: #000;
+$white: #fff;
+$primary: #5EA9C0;
+$secondary: #A4A5AF;
+$success: #57763E;
+$danger: #D73D47;
+$light: #B1EDEE;
+$clear: #EEBFD6;
+$earth: #D4A357;
+$citron: #B3AF21;
+$pink: #E25680;
+
+$dark-primary: darken($primary, 20%);
+$light-primary: lighten($primary, 20%);
+$dark-secondary: darken($secondary, 20%);
+$light-secondary: lighten($secondary, 20%);

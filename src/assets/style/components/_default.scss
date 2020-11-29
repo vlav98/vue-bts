@@ -9,3 +9,13 @@ html {
 #main-view {
     min-height: 100vh;
 }
+
+a {
+    color: $dark-primary;
+}
+
+.dark {
+    a {
+        color: $light-primary;
+    }
+}
