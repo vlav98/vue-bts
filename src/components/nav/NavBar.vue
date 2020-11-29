@@ -49,7 +49,7 @@
         </button>
         <div :class="{'flex': isOpen, 'hidden' : !isOpen }" class="top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto transition duration-150 ease-in-out origin-top my-4">
           <div class="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start flex flex-col lg:h-auto">
-            <router-link to="/home" class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-md text-sm font-medium text-white bg-gray-900 items-center justify-center ">Home</router-link>
+            <router-link to="/" class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-md text-sm font-medium text-white bg-gray-900 items-center justify-center ">Home</router-link>
             <router-link to="/discography" class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-md text-sm font-medium text-white hover:text-white hover:bg-gray-700 items-center justify-center ">Discography</router-link>
             <router-link to="/about" class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-md text-sm font-medium text-white hover:text-white hover:bg-gray-700 items-center justify-center ">About</router-link>
             <router-link to="/contact" class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-md text-sm font-medium text-white hover:text-white hover:bg-gray-700 items-center justify-center ">Contact</router-link>
