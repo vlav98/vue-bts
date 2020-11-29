@@ -28,11 +28,11 @@
 </template>
 
 <script>
-import datas from "./../data/discography.json";
-import DiscographyCard from "../components/discography/DiscographyCard.vue";
+import datas from "../../data/discography.json";
+import DiscographyCard from "./DiscographyCard.vue";
 
 export default {
-  name: "Discography",
+  name: "discography-view",
   components: {
     DiscographyCard,
   },
