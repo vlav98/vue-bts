@@ -1,5 +1,6 @@
 import { createApp } from "vue";
 import router from "./router";
+import store from "./store";
 import App from "./App.vue";
 
 // Import Assets
@@ -13,6 +14,7 @@ const app = createApp(App);
 
 // Middleware
 app.use(router);
+app.use(store);
 
 // Use elements
 app.component("base-button", BaseButton);

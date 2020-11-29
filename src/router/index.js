@@ -4,7 +4,7 @@ import { createRouter, createWebHashHistory } from 'vue-router';
 import Home from "@/views/Home";
 import About from "@/views/About";
 import Contact from "@/views/Contact";
-import Discography from "@/views/DiscographyView";
+import Discography from "@/views/FullDiscographyView";
 
 // Routes
 const routes = [
