@@ -47,17 +47,17 @@
             />
           </svg>
         </button>
-        <div :class="{'flex': isOpen, 'hidden' : !isOpen }" class="top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto">
+        <div :class="{'flex': isOpen, 'hidden' : !isOpen }" class="top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto duration-150 ease-in-out">
           <div class="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start flex flex-col lg:h-auto">
             <router-link to="/home" class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-md text-sm font-medium text-white bg-gray-900 items-center justify-center ">Home</router-link>
             <router-link to="/discography" class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-md text-sm font-medium text-white hover:text-white hover:bg-gray-700 items-center justify-center ">Discography</router-link>
             <router-link to="/about" class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-md text-sm font-medium text-white hover:text-white hover:bg-gray-700 items-center justify-center ">About</router-link>
             <router-link to="/contact" class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-md text-sm font-medium text-white hover:text-white hover:bg-gray-700 items-center justify-center ">Contact</router-link>
-          </div>
-          <div class="mx-4 hidden sm:block sm:ml-6">
-            <div class="toggle toggle--daynight">
-              <input type="checkbox" id="toggle--daynight" class="toggle--checkbox" v-model="dayModeCheck" @click="changeMode(dayModeCheck)" />
-              <label class="toggle--btn" for="toggle--daynight"><span class="toggle--feature"></span></label>
+            <div class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-md text-sm font-medium items-center justify-center">
+              <div class="toggle toggle--daynight">
+                <input type="checkbox" id="toggle--daynight" class="toggle--checkbox" v-model="dayModeCheck" @click="changeMode(dayModeCheck)" />
+                <label class="toggle--btn" for="toggle--daynight"><span class="toggle--feature"></span></label>
+              </div>
             </div>
           </div>
         </div>
