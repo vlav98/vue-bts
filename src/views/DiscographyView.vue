@@ -2,21 +2,21 @@
   <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
     <h1 class="text-3xl font-bold leading-tight text-gray-900">Discographie de BTS</h1>
   </div>
-  <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
+  <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8 ">
     <div class="flex-wrap md:flex md:mx-6 mb-4">
       <div class="">
-        <select class="dark:bg-transparent border border-gray-300 rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" v-model="selectedYear" @change="filterByYear($event)">
-          <option value="null" selected>{{ yearOption }}</option>
-          <option v-for="year in Years" :key="year" :value="year" @click.prevent="filterAlbums(year)"> {{ year }} </option>
+        <select class="dark:bg-transparent border border-gray-300 rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default focus:outline-none focus:ring-1 focus:ring-indigo-800 focus:border-indigo-800 sm:text-sm" v-model="selectedYear" @change="filterByYear($event)">
+          <option class="dark:bg-black" value="null" selected>{{ yearOption }}</option>
+          <option class="dark:bg-black" v-for="year in Years" :key="year" :value="year" @click.prevent="filterAlbums(year)"> {{ year }} </option>
         </select>
       </div>
     </div>
-    <div class="md:flex md:-mx-4 flex-wrap justify-center">
+    <div class="md:flex md:-mx-4 flex-wrap justify-center sm:px-4">
       <discography-card
         v-show="(discography.Year == selectedYear && selectedYear != null) || selectedYear == null"
         v-for="(discography, i) in discographys"
         :key="i"
-        class="item-list"
+        class="item-list sm:mx-4"
         :class="[i % 2 == 0 ? 'red' : 'blue', discographyPicked(discography)]"
         :discographyData="discography"
         :index="i"
@@ -95,4 +95,10 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+.dark {
+  option:selected {
+    background-color: black;
+  }
+}
+</style>
