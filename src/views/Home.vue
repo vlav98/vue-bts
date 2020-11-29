@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="text-3xl font-bold leading-tight text-gray-900 pb-4">Home</h1>
-    <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8 text-justify">
+    <div class="max-w-7xl mx-auto p-6 sm:px-6 lg:px-8 text-justify">
       <p>Bienvenue sur mon petit site. </p>
       <p>Il y a pour l'instant peu de contenu.</p>
       <p>Tu peux trouver dans Home cette page.</p>

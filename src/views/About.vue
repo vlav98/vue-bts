@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="text-3xl font-bold leading-tight">About</h1>
-    <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8 text-justify">
+    <div class="max-w-7xl mx-auto p-6 sm:px-6 lg:px-8 text-justify">
       <p>Coucou ! Si tu es sur cette page c'est que tu veux en savoir plus sur moi ?</p>
       <p>Pas de soucis :D</p>
       <p>Alors par où commencer ?</p>
