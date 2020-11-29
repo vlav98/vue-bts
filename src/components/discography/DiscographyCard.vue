@@ -27,6 +27,7 @@ export default {
   data() {
     return {
       discography: this.discographyData,
+      libraries: [],
     };
   },
   methods: {
@@ -35,7 +36,7 @@ export default {
 			removeDiscography: 'removeDiscography'
 		}),
     addOne(discography) {
-      if (!this.$store.state.selection.includes(discography)) {
+      if (!this.$store.state.libraries.includes(discography)) {
         this.addDiscography(discography)
       }
     },
